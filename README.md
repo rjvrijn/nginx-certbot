@@ -1,5 +1,8 @@
 # Boilerplate for nginx with Let’s Encrypt on docker-compose
 
+> **Note from a cloner**: I cloned this repository to setup a NGINX reserve proxy for my own environment. At this moment I'll findtuning it for the combination of Gitlab, Sonarqube and Nexus. So the configuration files do contain a litle specific domain data. If you want to use the original please use the link below in this further unchained readme. *Hope it'll help you to setup your enviroment too! Sincerely, Rene van Rijn.*
+---
+
 > This repository is accompanied by a [step-by-step guide on how to
 set up nginx and Let’s Encrypt with Docker](https://medium.com/@pentacent/nginx-and-lets-encrypt-with-docker-in-less-than-5-minutes-b4b8a60d3a71).
 
